@@ -16,6 +16,12 @@ Ejemplos en Python de listas, tuplas, conjuntos diccionarios
 - ![image](https://github.com/user-attachments/assets/8d4f3141-ebea-462f-bebf-530a765276cb)
 - resultado
 - ![image](https://github.com/user-attachments/assets/ace5a117-9c6b-4f83-882d-757572d34619)
+## ejemplo de diccionario
+![image](https://github.com/user-attachments/assets/00abbb40-3b64-4063-a0ab-1874055cfa9d)
+- resultado
+- ![image](https://github.com/user-attachments/assets/2dc28cdc-4419-4142-a4fc-210fa2a50892)
+
+
 
 
 
